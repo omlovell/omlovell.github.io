@@ -1,5 +1,3 @@
-# Owen Lovell's ePortfolio
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/grad pic 2025.jpg" width="150" height="200">
  <source media="(prefers-color-scheme: light)" srcset="/grad pic 2025.jpg" width="150" height="200">
