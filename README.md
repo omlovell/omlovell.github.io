@@ -6,3 +6,19 @@
 
 
 ## Self-Assessment
+
+
+
+##### Code Review Video
+
+
+##### Software Design and Engineering
+###### Narrative
+
+
+##### Algorithms and Data Structure
+###### Narrative
+
+##### Databases
+###### Narrative
+
