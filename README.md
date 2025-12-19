@@ -36,6 +36,7 @@ The original artifact for this enhancement was created in CS 360, Mobile Archite
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
 This project was originally going to use MongoDB Data Sync, but that was said to be depreciated so a REST API was created to talk to the program and MongoDB. Safety and Security was a big challenge, such as storing user passwords, entered information and making sure to only display correct information. In doing this enhancement I’ve learned that there is a lot to learn and still improve upon which will keep me interested in this career field.
 ##### [Project Files GitHub Link](https://github.com/omlovell/Enhancement-3).
 
