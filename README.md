@@ -9,7 +9,7 @@
 
 
 
-##### [Code Review Video] (https://www.youtube.com/watch?v=zbAMVTYSPEg).
+##### [Code Review Video](https://www.youtube.com/watch?v=zbAMVTYSPEg).
 
 
 ##### Software Design and Engineering
